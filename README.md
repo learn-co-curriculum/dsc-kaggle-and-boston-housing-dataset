@@ -11,15 +11,16 @@ Kaggle hosts numerous Data Science competitions where you can grab datasets and 
 
 
 ## Sign up
-* Navigate to [kaggle.com](kaggle.com)
+* Navigate to [kaggle.com](https://www.kaggle.com)
 
-<img src="images/k1.jpg" width="600">
+<img src="images/kagglehome.png" width="800">
 
-* Click Sign in and then 
+* Click "Sign in" and then 
+* Click "Create one" to make a new account
+<img src="images/kagglelogin1.png" width="300">
 * Fill out the basic information
-* Accept the terms and agreements
-    
-<img src="images/k2.jpg" width="600">
+<img src="images/kagglelogin2.png" width="300">
+* Accept the Privacy and Terms agreement
 
 ## Congratulations! 
 
